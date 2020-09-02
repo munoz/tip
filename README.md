@@ -10,8 +10,8 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -26,7 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of app in use:
+
+!(image)[https://imgur.com/a/RNDf5qc.gif]
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RNDf5qc"  ><a href="//imgur.com/a/RNDf5qc">Tip Calculator</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
