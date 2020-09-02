@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of app in use:
 
-!(image)[https://imgur.com/a/RNDf5qc.gif]
+![Alt text](https://imgur.com/a/RNDf5qc.gif)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RNDf5qc"  ><a href="//imgur.com/a/RNDf5qc">Tip Calculator</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
